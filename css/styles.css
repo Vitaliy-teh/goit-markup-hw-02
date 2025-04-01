@@ -1,0 +1,103 @@
+body {
+    font-family: "Roboto", "Helvetica Neue", "Verdana", "Tahoma", sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
+}
+
+.logoheader {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.16667;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: navy-blue;
+    text-decoration: none;
+}
+
+.navigate a {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: navy-blue;
+    text-decoration: none;
+}
+
+.link:hover {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: ocean;
+}
+
+.link:active {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: ocean;
+    border-radius: 2px;
+    width: 48px;
+    height: 4px;
+}
+
+.adres {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: slate;
+    text-decoration: none;
+}
+
+
+h1 {
+    font-family: "Roboto", sans-serif; 
+    font-weight: 700;
+    font-size: 56px; 
+    line-height: 1.07143;
+    letter-spacing: 0.02em;
+    text-align: center;
+}
+
+h2 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11111;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: navy-blue;
+}
+
+h3 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: navy-blue;
+}
+
+button {
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: var(--white);
+}
+
+p {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: slate;
+}
+
+ul {
+    list-style-type: none;
+}
