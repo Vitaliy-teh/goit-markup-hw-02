@@ -86,8 +86,8 @@ body {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
-    line-height: 1.5
-    letter spacing: 0.04em;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
 }
 
 .button-style:hover,
@@ -162,7 +162,7 @@ ul {
 .footer-text {
     color: #F4F4FD;
     line-height: 1.5;
-    letter-spasing: 0.02em;
+    letter-spacing: 0.02em;
     font-weight: 400;
     font-size: 16px;
 } 
